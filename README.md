@@ -6,4 +6,4 @@ De vez en cuando estoy jugando en HackerRank o bien revisando las discuciones si
 
 :)
 
-![GitHub metrics]([https://metrics.lecoq.io/insights/cfreire1](https://metrics.lecoq.io/cfreire1))
+![GitHub metrics](https://metrics.lecoq.io/cfreire1)
