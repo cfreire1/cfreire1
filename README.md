@@ -5,3 +5,5 @@ Hoy en día, estoy centrado en adquirir nuevos conocimientos y agregandolos en e
 De vez en cuando estoy jugando en HackerRank o bien revisando las discuciones si cambio algo en las Apis.
 
 :)
+
+![GitHub metrics]([https://metrics.lecoq.io/insights/cfreire1](https://metrics.lecoq.io/cfreire1))
