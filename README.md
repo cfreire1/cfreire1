@@ -6,4 +6,8 @@ De vez en cuando estoy jugando en HackerRank o bien revisando las discuciones si
 
 :)
 
+# Otros perfiles
+* 🚀 [Hacker rank](https://www.hackerrank.com/christ_freire)
+
+
 ![GitHub metrics](https://metrics.lecoq.io/cfreire1)
