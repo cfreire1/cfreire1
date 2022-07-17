@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=cfreire1&label=Profile%20views&color=0e75b6&style=flat" alt="cfreire1" />
 
-# hola soy Cristopher👋
+# hola 👋
 
 Desarrollador de software apasionado por el ecosistema Java, Spring, las API REST y, por supuesto, la seguridad y la infractuctura e contenedores
 Hoy en día, estoy centrado en adquirir nuevos conocimientos.
