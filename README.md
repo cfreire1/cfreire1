@@ -2,7 +2,7 @@
 
 # hola 👋
 
-Desarrollador de software apasionado por el ecosistema Java, Spring, las API REST y, por supuesto, la seguridad y la infractuctura e contenedores
+Soy desarrollador de software apasionado por el ecosistema Java, Spring, las API REST y, por supuesto, la seguridad y la infractuctura e contenedores
 Hoy en día, estoy centrado en adquirir nuevos conocimientos.
 De vez en cuando juego en HackerRank o bien reviso las discuciones si cambio algo en las Apis.
 
