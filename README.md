@@ -1,8 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=cfreire1&label=Profile%20views&color=0e75b6&style=flat" alt="cfreire1" />
 
 # hola 👋
-
-Soy desarrollador de software apasionado por distintas tecnologias.
+Desarrollador de software apasionado por distintas tecnologias.
 Hoy en día, centrado en adquirir nuevos conocimientos.
 
 :)
