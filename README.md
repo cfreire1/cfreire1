@@ -2,7 +2,7 @@
 
 # hola 👋
 Desarrollador de software apasionado por distintas tecnologias.
-Hoy en día, centrado en adquirir nuevos conocimientos.
+siempre, centrado en adquirir nuevos conocimientos.
 
 :)
 
