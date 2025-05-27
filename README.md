@@ -13,4 +13,4 @@ siempre centrado en adquirir nuevos conocimientos.
 </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cfreire1" alt="cfreire1" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cfreire1&title=Experience" alt="cfreire1" /></a> </p>
