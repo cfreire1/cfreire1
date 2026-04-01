@@ -12,5 +12,3 @@ siempre centrado en adquirir nuevos conocimientos.
 <a href="https://www.hackerrank.com/christ_freire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="christ_freire" height="30" width="40" /></a>
 </p>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cfreire1&title=Experience" alt="cfreire1" /></a> </p>
